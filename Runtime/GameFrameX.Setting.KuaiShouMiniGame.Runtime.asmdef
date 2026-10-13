@@ -1,0 +1,20 @@
+{
+    "name": "GameFrameX.Setting.KuaiShouMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.Setting.Runtime",
+    "references": [
+        "GameFrameX.Setting.Runtime",
+        "kuaishou.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_WEBGL",
+        "ENABLE_KUAISHOU_MINI_GAME"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
