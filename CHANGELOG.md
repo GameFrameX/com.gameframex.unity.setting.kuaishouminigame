@@ -1,3 +1,15 @@
+# 1.0.0 (2026-10-15)
+
+
+### Bug Fixes
+
+* **package:** 对齐 setting 2.0.0 依赖并修正品牌命名 ([062c014](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/commit/062c014e5b3cdd3c00e3f1660ea47ea7ce4bf6c4))
+
+
+### Features
+
+* initial commit ([390bdd3](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/commit/390bdd31c79ae17c9ba75c4f4ccf606098021b21))
+
 # 1.0.0 (2026-10-13)
 
 
