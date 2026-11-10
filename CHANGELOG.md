@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/compare/1.0.0...1.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **setting.kuaishouminigame:** 添加完整 link.xml 防代码裁剪保护 ([cc92b4d](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/commit/cc92b4d70a6de6d378ab0b936da6bb60807eca12))
+
 # 1.0.0 (2026-10-15)
 
 
