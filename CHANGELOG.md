@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/compare/1.0.1...1.1.0) (2026-11-10)
+
+
+### Features
+
+* **setting.kuaishouminigame:** 新增快手小游戏存档文件存储后端 ([cb62ad6](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/commit/cb62ad63a8b02bef5b85b40a95cb9a973f1d3f78))
+
 ## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/compare/1.0.0...1.0.1) (2026-11-10)
 
 
