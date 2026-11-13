@@ -48,6 +48,11 @@ namespace GameFrameX.Setting.Runtime
 
         protected override void CreateDirectoryIfExistsMissing(string directoryPath)
         {
+            if (KSWASM.KSBase.GetFileSystemManager().AccessSync(directoryPath).Equals("access:ok"))
+            {
+                return;
+            }
+
             KSWASM.KSBase.GetFileSystemManager().MkdirSync(directoryPath, true);
         }
 
