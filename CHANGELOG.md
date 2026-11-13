@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/compare/1.1.0...1.1.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **setting.kuaishouminigame:** 存档目录已存在时 MkdirSync 平台报错 ([eae208c](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/commit/eae208c052dc147396c5e6180de25c3b5ced7f57))
+
 # [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.kuaishouminigame/compare/1.0.1...1.1.0) (2026-11-10)
 
 
